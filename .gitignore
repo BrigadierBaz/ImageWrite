@@ -1,0 +1,7 @@
+# combiled files
+*.o
+#Qt
+.qmake*
+build-*
+Makefile
+*.pro.*
